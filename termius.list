@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,termius.com,DIRECT
-DOMAIN-SUFFIX,termi.us,DIRECT
-DOMAIN-SUFFIX,grpc.termius.com,DIRECT
-DOMAIN-SUFFIX,api.termius.com,DIRECT
-DOMAIN-SUFFIX,account.termius.com,DIRECT
+DOMAIN-SUFFIX,termius.com
+DOMAIN-SUFFIX,termi.us
+DOMAIN-SUFFIX,grpc.termius.com
+DOMAIN-SUFFIX,api.termius.com
+DOMAIN-SUFFIX,account.termius.com
