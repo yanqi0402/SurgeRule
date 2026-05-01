@@ -1,0 +1,12 @@
+# termius
+DOMAIN-SUFFIX,termius.com
+DOMAIN-SUFFIX,termi.us
+DOMAIN-SUFFIX,grpc.termius.com
+DOMAIN-SUFFIX,api.termius.com
+DOMAIN-SUFFIX,account.termius.com
+
+# BOC
+DOMAIN-SUFFIX,bank-of-china.com
+
+# Shapr3D
+DOMAIN-SUFFIX,shapr3d.com
